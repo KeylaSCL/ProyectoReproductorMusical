@@ -1,0 +1,4 @@
+C:\Users\ASUS\source\repos\Proyecto_Reproductor_Musical\Proyecto_Reproductor_Musical\obj\Debug\Proyecto_Reproductor_Musical.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Proyecto_Reproductor_Musical\Proyecto_Reproductor_Musical\obj\Debug\Proyecto_Reproductor_Musical.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Proyecto_Reproductor_Musical\Proyecto_Reproductor_Musical\obj\Debug\Proyecto_Reproductor_Musical.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Proyecto_Reproductor_Musical\Proyecto_Reproductor_Musical\obj\Debug\Proyecto_Reproductor_Musical.csproj.CoreCompileInputs.cache
